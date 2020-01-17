@@ -1,0 +1,2 @@
+C:\PersonalProjects\WebComicSite\ComicWebApp\ComicWebApp\obj\Debug\ComicWebApp.njsprojAssemblyReference.cache
+C:\PersonalProjects\WebComicSite\ComicWebApp\ComicWebApp\bin\Microsoft.NodejsTools.WebRole.dll
